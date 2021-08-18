@@ -15,5 +15,5 @@ The deployed application is responsive to various screens and devices.
 ![Demo of webpage on larger screens](/assets/screenshots/LargerScreen.png)
 
 ### Links   
-* [*GitHub repository*](git@github.com:daliyaebenny/Portfolio.git)   
+* [*GitHub repository*](https://github.com/daliyaebenny/Portfolio.git)   
 * [*GitHub pages*](https://daliyaebenny.github.io/Portfolio/)
