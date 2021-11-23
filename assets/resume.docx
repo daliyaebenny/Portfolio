@@ -42,6 +42,14 @@ Deployed URL: https://daliyaebenny.github.io/Movie-Search/
 •	Responsibilities: Backend code for the application, Project Management.
 •	Tools/Languages: HTML 5, CSS3, JavaScript, jQuery, Bootstrap CSS, GitHub, VisualStudioCode, Slack, Zoom.
 
+Music Trivia 2.0 
+GitHub: https://github.com/ChonaC/Project-2-MUSICTRIVIA.git
+Deployed URL: https://protected-falls-91774.herokuapp.com/login
+
+•	Purpose Of Project: Registered users, once they are logged in can play a musical quiz with a soothing music playing in the background.
+•	Responsibilities: Login and authentication with express-session and cookies
+•	Tools/Languages: HTML 5, CSS3, JavaScript, Node.js, Express.js, Sequelize, Handlebars, Heroku, Bootstrap CSS, GitHub, VisualStudioCode, Slack, Zoom.
+
 Graduation Project
 Aide-Memoire: January 2013- May 2013 (Semester VI)  
 •	Web based project for managing student information.  
