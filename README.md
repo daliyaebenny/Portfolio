@@ -16,7 +16,20 @@ SO THAT I can share it with employeers and exhiibit my skills
 
 The following image shows the web application's appearance 
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+![portfolio mobile demo](./assets/img/mobile.png)    
+![portfolio education demo](./assets/img/education.png)    
+![portfolio experience demo](./assets/img/experience.png)    
+![portfolio skills demo](./assets/img/skills.png)    
+![portfolio demo](./assets/img/projects.png)  
+
+
+## Technology
+HTML,CSS,JavaScript
+
+### Links 
+* [*GitHub repository*](https://github.com/daliyaebenny/ReadMe-Generator.git)   
+* [*Deployed Application*](https://github.com/daliyaebenny/ReadMe-Generator/blob/main/result/README.md)
+
 
 
 
