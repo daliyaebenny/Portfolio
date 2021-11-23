@@ -28,7 +28,7 @@ HTML,CSS,JavaScript
 
 ### Links 
 * [*GitHub repository*](https://github.com/daliyaebenny/Portfolio.git)   
-* [*Deployed Application*](https://github.com/daliyaebenny/ReadMe-Generator/blob/main/result/README.md)
+* [*Deployed Application*](https://daliyaebenny.github.io/Portfolio/)
 
 
 
