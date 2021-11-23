@@ -27,7 +27,7 @@ The following image shows the web application's appearance
 HTML,CSS,JavaScript
 
 ### Links 
-* [*GitHub repository*](https://github.com/daliyaebenny/ReadMe-Generator.git)   
+* [*GitHub repository*](https://github.com/daliyaebenny/Portfolio.git)   
 * [*Deployed Application*](https://github.com/daliyaebenny/ReadMe-Generator/blob/main/result/README.md)
 
 
